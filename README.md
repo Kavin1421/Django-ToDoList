@@ -1,5 +1,5 @@
 # Django-ToDoList
-Simple TODOLIST using Python,Django and Mysql
+Simple TODOLIST using Python,Django and Mysql.
 
 ## Run these Commads
 ### Step 1
